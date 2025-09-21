@@ -25,7 +25,6 @@ class Calculator:
             return "Invalid operation"
 
 
-# Taking user input
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 op = input("Enter operation (add, sub, mul, div): ")
