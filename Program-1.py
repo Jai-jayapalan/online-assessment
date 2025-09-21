@@ -32,4 +32,3 @@ op = input("Enter operation (add, sub, mul, div): ")
 
 calc = Calculator(a, b, op)
 print("Result:", calc.calculate())
-print("Result in integer:", int(calc.calculate()))
