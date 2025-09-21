@@ -32,12 +32,12 @@ The test can be taken in any programming language, and I have chosen **Python 3*
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Jai-jayapalan/online-assessment.git
 ```
 
 ### Step 2: Navigate to the Project Directory
 ```bash
-cd <repository-folder-name>
+cd online-assessment
 ```
 
 ### Step 3: Run Any Program
